@@ -9,12 +9,12 @@ body {
 .cima {
 	height:50px;
 	width:100%;
-	background-color:#5D5C61;
+	background-color:#314455;
 }
 .cimadentro{
 	width:1000px;
 	margin:auto;
-	background-color:#5D5C61;
+	background-color:#314455;
 }
 .logo {
 	color:white;
@@ -22,25 +22,25 @@ body {
 	font-size:24px;
 	line-height:50px;
 }
-.meni{
+.menu{
 	font-size:18px;
 	float:right;
 	line-height:50px;
 	color:white;
 }
-.meni ul,
-.meni li {
+.menu ul,
+.menu li {
 	margin:0;
 	padding:0;
 	list-style:none;
 }
-.meni li {
+.menu li {
 	float:left;
 	padding-right:15px;
 	padding-left:15px;
 	cursor:pointer;
 }
-.meni>ul>li:hover {
+.menu>ul>li:hover {
 	background-color:#B1A296;
 } 
 .meio {
@@ -52,7 +52,7 @@ body {
 	width:1000px;
 	margin:auto;
 }
-.homi {
+.homem {
 	margin-top:20px;
 	height:280px;
 }
@@ -101,14 +101,22 @@ body {
 	margin:auto;
 	width:1000px;
 }
-.pezin {
+.rodape {
 	text-align:center;
 	font-size:12px;
-	background-color:#5D5C61;
+	background-color:#314455;
 	line-height:50px;
 	height:50px;
 }
-.fundim {
-	background-color:#7395AE;
+.fundo {
+	background-color:#97AABD;
 	width:100%;
 }
+
+/* CORES
+#314455
+#644E5B
+#9E5A63
+#C96567
+#97AABD
+*/
